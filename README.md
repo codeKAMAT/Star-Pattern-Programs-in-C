@@ -1,2 +1,1 @@
-# Star-Pattern-Programs-in-C
-Star Pattern Programs in C
+# Star and Numeric Pattern-Programs-in-C
