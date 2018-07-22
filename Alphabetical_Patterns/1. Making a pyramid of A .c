@@ -22,4 +22,5 @@ int main(){
         }
         printf("\n"); // for changing line
     }
+    return 0 ;
 }
